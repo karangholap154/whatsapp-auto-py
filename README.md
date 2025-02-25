@@ -60,3 +60,4 @@ A Python script that uses the Twilio API to send WhatsApp messages at a schedule
 *   v1.0: Initial release
 *   v1.1: Added support for scheduling messages
 *   v1.2: Improved error handling and troubleshooting section
+
